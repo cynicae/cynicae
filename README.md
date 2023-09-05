@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cynicae
+- 👋 Hi, I’m @jkat
 - 👀 I’m interested in ... Webpage automation and game hacking
 - 🌱 I’m currently learning ... python and C++
 - 📫 How to reach me ... discord: rico#6876
