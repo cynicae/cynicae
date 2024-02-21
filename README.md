@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jkat
-- 👀 I’m interested in ... Webpage automation, game hacking, data analysis
+- 👀 I’m interested in ... Webpage automation, game hacking, data analysis, ai development
 - 🌱 I’m currently learning ... C/C++, Java, JavaScript
 - 📫 How to reach me ... discord: rico#6876
 
